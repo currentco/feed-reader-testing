@@ -11,7 +11,8 @@ This is a feed reader testing project made with Jasmine.
 
 ## Instructions
 
-- Open the <a href="https://currentco.github.io/feed-reader-testing/">Feed Reader Testing</a> in your browser.
+- Clone the project files on your computer.
+- Open the index.html in your browser.
 - Wait for the Jasmine report on all the tests to complete.
 
 ## Functionalities
